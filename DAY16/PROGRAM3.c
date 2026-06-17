@@ -1,4 +1,4 @@
- #include<stdio.h>
+#include<stdio.h>
  int main()
  {
     //WRITE A PROGRAM TO FIND PAIR WITH GIVEN SUM
